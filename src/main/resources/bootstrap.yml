@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: springboot2-jenkins-pipeline
